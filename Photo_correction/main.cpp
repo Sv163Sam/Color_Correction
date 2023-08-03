@@ -21,8 +21,8 @@ void color_alignment(cv::Mat& img1, cv::Mat& img2)
 
 int main()
 {
-    cv::Mat img1 = cv::imread("img/img_1.png");
-    cv::Mat img2 = cv::imread("img/img_2.png");
+    cv::Mat img1 = cv::imread("img/Street1.png");
+    cv::Mat img2 = cv::imread("img/Street2.png");
 
     auto start_time = std::chrono::high_resolution_clock::now();
 
