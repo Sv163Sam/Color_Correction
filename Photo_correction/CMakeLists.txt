@@ -9,6 +9,6 @@ find_package(OpenCV)
 include_directories(${OpenCV_INCLUDE_DIRS})
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(untitled1 main.cpp main.h TO.cpp)
+add_executable(untitled1 main.cpp main.h algoritm.cpp)
 
 target_link_libraries(untitled1 ${OpenCV_LIBS})
