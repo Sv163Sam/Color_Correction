@@ -19,6 +19,16 @@
 <img width="1185" alt="Снимок экрана 2023-08-03 в 16 47 32" src="https://github.com/Sv163Sam/Color_Correction/assets/85555964/5c3579b4-feca-40ff-a0a9-0e2f123cf873">
 <img width="1183" alt="Снимок экрана 2023-08-03 в 16 47 47" src="https://github.com/Sv163Sam/Color_Correction/assets/85555964/f62f44e3-73bf-4be3-8818-547039a219ca">
 
+
+
+# Коррекция швов
+------------------------------
+Время работы от 7 мс до 60-100 мс
+-----------------------------------------
+                                          Результат
+<img width="1227" alt="Снимок экрана 2023-08-10 в 16 41 11" src="https://github.com/Sv163Sam/Color_Correction/assets/85555964/ed827c20-001c-4e84-b293-1c7005338003">
+<img width="1229" alt="Снимок экрана 2023-08-10 в 16 41 29" src="https://github.com/Sv163Sam/Color_Correction/assets/85555964/b39788ca-cd65-4d69-803f-cf1bd95e41f8">
+
                                        
      
 
